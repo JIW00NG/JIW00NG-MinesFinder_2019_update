@@ -1,1 +1,1 @@
-# JIW00NG-MinesFinder_2019_update
+MinesFinder_2019_update
